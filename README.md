@@ -1,3 +1,3 @@
 # Geeksforgeeks
 
-It contains problems solved on <a href="www.geeksforgeeks.org">Geeksforgeeks</a>.
+It contains problems solved on <a href="https://practice.geeksforgeeks.org/">Geeksforgeeks</a>.
